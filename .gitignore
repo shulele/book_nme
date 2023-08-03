@@ -47,3 +47,10 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+_book
+_bookdown_files
+
+Functions
+Diagram
+test*.R
